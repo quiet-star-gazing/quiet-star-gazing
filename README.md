@@ -5,7 +5,8 @@
     <img src="https://komarev.com/ghpvc/?username=1086-loves-programming" alt="86"/>
   </p>
   <p align="center">
-    <a target="_blank" href="https://shequ.codemao.cn/user/13869990"><img src=https://img.shields.io/badge/Codemao-编程猫-red /></a>
+    <a href="https://shequ.codemao.cn/user/13869990"><img src=https://img.shields.io/badge/Codemao-编程猫-red /></a>
+    <a href="https://space.bilibili.com/1305803109"><img src="https://img.shields.io/badge/Bilibili-B%E7%AB%99-ff69b4"></a>
   </p>
   
 |![](https://github-readme-stats.vercel.app/api?username=1086-loves-programming&hide_border=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=1086-loves-programming&langs_count=10&hide_border=true)|
