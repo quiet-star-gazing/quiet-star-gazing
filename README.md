@@ -9,7 +9,7 @@
     <a href="https://space.bilibili.com/1305803109"><img src="https://img.shields.io/badge/Bilibili-B%E7%AB%99-ff69b4"></a>
   </p>
   
-|![](https://github-readme-stats.vercel.app/api?username=1086-loves-programming&hide_border=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=1086-loves-programming&langs_count=10&hide_border=true)|
+|![](https://github-readme-stats.vercel.app/api?username=1086-loves-programming&hide_border=true&locale=cn)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=1086-loves-programming&langs_count=10&hide_border=true&locale=cn)|
 |-|-|
   
   <p align="center">
@@ -22,4 +22,3 @@
  <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=1086-loves-programming" />
 </div>
-
