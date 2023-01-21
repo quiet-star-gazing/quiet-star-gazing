@@ -7,8 +7,10 @@
     <a href="https://shequ.codemao.cn/user/13869990"><img src=https://img.shields.io/badge/Codemao-编程猫-red /></a>
     <a href="https://space.bilibili.com/1305803109"><img src="https://img.shields.io/badge/Bilibili-B%E7%AB%99-ff69b4"></a>
   </p>
+  <div>
   <a href="https://stats.justsong.cn/api/bilibili/?id=1305803109&lang=zh-CN"></a>
   <a href="https://stats.justsong.cn/api/juejin?id=2582088500914903&lang=zh-CN"></a>
+  </div>
 
   <p align="center">
     <img width="500" src="https://metrics.lecoq.io/1086-loves-programming" alt="Github Metrics"><br>
