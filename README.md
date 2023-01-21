@@ -4,12 +4,15 @@
     <img src="https://komarev.com/ghpvc/?username=1086-loves-programming" alt="86"/>
 </p>
 <p align="center">
-    <a href="https://shequ.codemao.cn/user/13869990"><img src=https://img.shields.io/badge/Codemao-编程猫-red /></a>
-    <a href="https://space.bilibili.com/1305803109"><img src="https://img.shields.io/badge/Bilibili-B%E7%AB%99-ff69b4"></a>
+    <a href="https://shequ.codemao.cn/user/13869990"><img src="https://img.shields.io/badge/Codemao-编程猫-red" /></a>
+    <a href="https://space.bilibili.com/1305803109"><img src="https://img.shields.io/badge/Bilibili-B%E7%AB%99-ff69b4" /></a>
+</p>
+<p align="center">
+    <a href="https://juejin.cn/user/2582088500914903"><img src="https://stats.justsong.cn/api/juejin?id=2582088500914903&lang=zh-CN" /></a>
+    <a href="https://space.bilibili.com/1305803109"><img src="https://stats.justsong.cn/api/bilibili/?id=1305803109&lang=zh-CN" /></a>
 </p>
 
-![](https://stats.justsong.cn/api/bilibili/?id=1305803109&lang=zh-CN)
-![](https://stats.justsong.cn/api/juejin?id=2582088500914903&lang=zh-CN)
+
 
 <p align="center">
     <img width="500" src="https://metrics.lecoq.io/1086-loves-programming" alt="Github Metrics"><br>
