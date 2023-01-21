@@ -8,8 +8,8 @@
     <a href="https://space.bilibili.com/1305803109"><img src="https://img.shields.io/badge/Bilibili-B%E7%AB%99-ff69b4"></a>
   </p>
 
-![](href="https://stats.justsong.cn/api/bilibili/?id=1305803109&lang=zh-CN")
-![](href="https://stats.justsong.cn/api/juejin?id=2582088500914903&lang=zh-CN")
+![](https://stats.justsong.cn/api/bilibili/?id=1305803109&lang=zh-CN)
+![](https://stats.justsong.cn/api/juejin?id=2582088500914903&lang=zh-CN)
 
   <p align="center">
     <img width="500" src="https://metrics.lecoq.io/1086-loves-programming" alt="Github Metrics"><br>
